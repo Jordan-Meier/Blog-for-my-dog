@@ -1,0 +1,37 @@
+
+img {
+  height: 200px;
+  width: 300px;
+}
+
+h1 {
+  color: cadetblue;
+  font-style: italic;
+  font-family: monospace;
+  font-weight: bold;
+  text-align:center;
+  font-size: 50px;
+}
+
+h3 {
+  color: #09a687;
+}
+
+h2 {
+  color: #8b3a62;
+}
+
+ol,
+li{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-style: italic;
+  font-size: 26px;
+}
+
+.paragraph-sum{
+  font-family: monospace;
+  font-style: italic;
+  font-size: 16px;
+
+}
