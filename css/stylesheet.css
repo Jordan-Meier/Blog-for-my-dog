@@ -2,6 +2,14 @@ body {
   background-color: #fddfd3;
 }
 
+.darkBackground {
+  background-color: #003366;
+}
+
+.lightBackground {
+  background-color: #fddfd3;
+}
+
 img {
   height: 50%;
   width: 50% ;
