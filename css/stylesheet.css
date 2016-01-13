@@ -11,6 +11,17 @@ body {
   background-color: #fddfd3;
 }
 
+#buttons {
+  border: 5px solid black;
+
+}
+
+#dark, #light{
+  margin-bottom: 10px;
+}
+
+
+
 img {
   height: 50%;
   width: 50% ;
